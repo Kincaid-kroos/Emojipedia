@@ -1,4 +1,5 @@
-
+Emojipedia
+This is a emoji User interface built using ReactJs, stlyed using CSS It provides basically meanings of the commonly used emoji's.
 In the project directory, you can run:
 
 ### `npm start`
